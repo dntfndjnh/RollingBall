@@ -5,3 +5,4 @@ I made mini game. I used Unity.
 2. If you touch your screen, the ball will jump.
 3. The slower you touch, the stronger your jump power is.
 4. If jump power is too strong, then your ball will make collision with Ceiling
+5. Calculate the score by adding the time of flight and the number of clicks.
