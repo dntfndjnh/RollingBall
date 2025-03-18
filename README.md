@@ -1,12 +1,11 @@
 # RollingBall
-I made mini game. I used Unity.
+I made a mini-game using Unity.
 
-1. A ball will roll until you touch your screen.
-2. If you touch your screen, the ball will jump.
-3. The slower you touch, the stronger your jump power is.
-4. If jump power is too strong, then your ball will make collision with Ceiling
-5. Calculate the score by adding the time of flight and the number of clicks.
-
+A ball rolls continuously until you touch the screen.
+When you touch the screen, the ball jumps.
+The longer you wait before touching, the stronger the jump.
+If the jump power is too strong, the ball will collide with the ceiling.
+Your score is calculated based on the total flight time and the number of clicks.
 
 ![Image](https://github.com/user-attachments/assets/d20f392f-70ba-43aa-8a81-d3eb482a4e4b)
 
