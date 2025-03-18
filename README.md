@@ -4,8 +4,8 @@
 <li>A ball rolls continuously until you touch the screen.</li>
 <li>When you touch the screen, the ball jumps.</li>
 <li>The longer you wait before touching, the stronger the jump.</li>
-If the jump power is too strong, the ball will collide with the ceiling.
-Your score is calculated based on the total flight time and the number of clicks.
+<li>If the jump power is too strong, the ball will collide with the ceiling.</li>
+<li>Your score is calculated based on the total flight time and the number of clicks.</li>
 
 ![Image](https://github.com/user-attachments/assets/d20f392f-70ba-43aa-8a81-d3eb482a4e4b)
 
