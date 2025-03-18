@@ -1,5 +1,5 @@
 # RollingBall
-I made a mini-game using Unity.
+<h1>I made a mini-game using Unity.</h1>
 
 A ball rolls continuously until you touch the screen.
 When you touch the screen, the ball jumps.
