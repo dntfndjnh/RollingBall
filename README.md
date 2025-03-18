@@ -1,9 +1,9 @@
 # RollingBall
 <h1>I made a mini-game using Unity.</h1>
 
-A ball rolls continuously until you touch the screen.
-When you touch the screen, the ball jumps.
-The longer you wait before touching, the stronger the jump.
+<li>A ball rolls continuously until you touch the screen.</li>
+<li>When you touch the screen, the ball jumps.</li>
+<li>The longer you wait before touching, the stronger the jump.</li>
 If the jump power is too strong, the ball will collide with the ceiling.
 Your score is calculated based on the total flight time and the number of clicks.
 
